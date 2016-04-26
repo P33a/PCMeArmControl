@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <grid version="3">
+    <saveoptions create="False" position="False" content="True"/>
+    <content>
+      <cells cellcount="24">
+        <cell1 column="0" row="1" text="Rot Z"/>
+        <cell2 column="0" row="2" text="Mov Y"/>
+        <cell3 column="0" row="3" text="Mov X"/>
+        <cell4 column="0" row="4" text="Gripper"/>
+        <cell5 column="1" row="0" text="Angle 0"/>
+        <cell6 column="1" row="1" text="0"/>
+        <cell7 column="1" row="2" text="0"/>
+        <cell8 column="1" row="3" text="0"/>
+        <cell9 column="1" row="4" text="0"/>
+        <cell10 column="2" row="0" text="Pulse"/>
+        <cell11 column="2" row="1" text="1450"/>
+        <cell12 column="2" row="2" text="900"/>
+        <cell13 column="2" row="3" text="2100"/>
+        <cell14 column="2" row="4" text="2100"/>
+        <cell15 column="3" row="0" text="Angle 1"/>
+        <cell16 column="3" row="1" text="45"/>
+        <cell17 column="3" row="2" text="-45"/>
+        <cell18 column="3" row="3" text="-45"/>
+        <cell19 column="3" row="4" text="45"/>
+        <cell20 column="4" row="0" text="Pulse"/>
+        <cell21 column="4" row="1" text="2000"/>
+        <cell22 column="4" row="2" text="1450"/>
+        <cell23 column="4" row="3" text="1700"/>
+        <cell24 column="4" row="4" text="1900"/>
+      </cells>
+    </content>
+  </grid>
+</CONFIG>
