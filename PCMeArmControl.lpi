@@ -63,8 +63,9 @@
         <ResourceBaseClass Value="Form"/>
       </Unit1>
       <Unit2>
-        <Filename Value="Utils.pas"/>
+        <Filename Value="utils.pas"/>
         <IsPartOfProject Value="True"/>
+        <UnitName Value="Utils"/>
       </Unit2>
     </Units>
   </ProjectOptions>

@@ -17,17 +17,17 @@
         <cell11 column="2" row="1" text="1450"/>
         <cell12 column="2" row="2" text="900"/>
         <cell13 column="2" row="3" text="2100"/>
-        <cell14 column="2" row="4" text="2100"/>
+        <cell14 column="2" row="4" text="1250"/>
         <cell15 column="3" row="0" text="Angle 1"/>
         <cell16 column="3" row="1" text="45"/>
         <cell17 column="3" row="2" text="-45"/>
         <cell18 column="3" row="3" text="-45"/>
-        <cell19 column="3" row="4" text="45"/>
+        <cell19 column="3" row="4" text="90"/>
         <cell20 column="4" row="0" text="Pulse"/>
         <cell21 column="4" row="1" text="2000"/>
         <cell22 column="4" row="2" text="1450"/>
         <cell23 column="4" row="3" text="1700"/>
-        <cell24 column="4" row="4" text="1900"/>
+        <cell24 column="4" row="4" text="2150"/>
       </cells>
     </content>
   </grid>
